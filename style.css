@@ -1,10 +1,7 @@
-font-family: Averta;
-    src: url(https://res.cloudinary.com/dafsch2zs/raw/upload/v1596618987/Zuri%20Landing/AvertaDemoPECuttedDemo-Regular_dghpn7.otf);
 
 * {
     box-sizing: border-box;
     font-family: Averta, sans-serif;
-    /*overflow: hidden;*/
 }
 .red{color: #E7332B;
 
@@ -40,6 +37,8 @@ a:hover{
 .head{
     background-color: rgb(255, 253,243);
 }
+
+/*zuri html*/
 .green{
    color: #E7332B;
    padding-top: 20px;
@@ -99,6 +98,7 @@ a:hover{
     border: 1px solid #E7332B;
 
 }
+/*zuri html*/
 .btn2{padding: 5px 5px;
     border: 1px solid #E7332B;
     color: #fff;
